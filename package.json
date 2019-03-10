@@ -1,0 +1,22 @@
+{
+  "name": "mosaic-solver",
+  "version": "1.0.0",
+  "description": "mosaic-solver",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kamaz91/mosaic-solver.git"
+  },
+  "author": "Kamil Świątek",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kamaz91/mosaic-solver/issues"
+  },
+  "homepage": "https://github.com/Kamaz91/mosaic-solver#readme",
+  "dependencies": {
+    "jimp": "^0.6.0"
+  }
+}
